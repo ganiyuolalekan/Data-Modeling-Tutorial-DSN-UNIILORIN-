@@ -102,4 +102,3 @@ Follow **Olalekan @**:
 - [Medium](https://gmolalekan.medium.com/)
 - [Kaggle](https://www.kaggle.com/ganiyuolalekan)
 - [Github](https://github.com/ganiyuolalekan)
-"# Data-Modeling-Tutorial-DSN-UNIILORIN-" 
