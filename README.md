@@ -2,6 +2,8 @@
 
 **Data modeling in machine learning** is the process of **creating machine learning models capable of** predicting labels from features, tuning them for the business need, and validating it on holdout data. The output from data modeling is a trained model that can be used for **making predictions on new data points**.
 
+![DSN](images/dsn_logo.png)
+
 This repository houses the course materials from the classes I'm undertaking with the **DSN-UNIILORIN cohort 2** on data modeling.
 
 Just for a quick overview of what's entailed in the course materials. 
