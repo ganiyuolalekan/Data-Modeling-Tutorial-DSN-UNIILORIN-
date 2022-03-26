@@ -93,6 +93,12 @@ There are multiple assignments and tasks present in the tutorial notebook. The e
 
 **📖** stands for resources. You're expected to follow up on every resource provided in this notebook to aid you in better understanding the task. I would be joking to tell you one single notebook would help you grasp the entirety of data modeling in machine learning.
 
+**🆕** represents a new activity. It is often followed by the **🛠** emoji.
+
+**⚠️** represents a warning about a concept that hasn't been properly explained.
+
+Search out the 🆕 emojis using `ctrl + f` to quickly see the new activities.
+
 ---
 
 Follow **Olalekan @**:
