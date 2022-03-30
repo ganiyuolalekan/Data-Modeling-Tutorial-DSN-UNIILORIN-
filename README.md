@@ -8,7 +8,7 @@ This repository houses the course materials from the classes I'm undertaking wit
 
 Just for a quick overview of what's entailed in the course materials. 
 
-In the course materials ([big_mart_checklist.ipynb](big_mart_checklist.ipynb) and [loan_prediction_checklist.ipynb](loan_prediction_checklist.ipynb)). We explore the checklist by [Aurélien Géron](https://www.oreilly.com/people/aurelien-geron/) in his book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) to model data.
+In the course materials ([big_mart_checklist.ipynb](big_mart_checklist.ipynb) and [loan_prediction_checklist.ipynb](loan_prediction_check_list.ipynb)). We explore the checklist by [Aurélien Géron](https://www.oreilly.com/people/aurelien-geron/) in his book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) to model data.
 
 The first task we'll be undertaking is the regression task with the [Big Mart Sales Dataset](data/big_mart_sales_prediction.csv) to understand how we can model data in regression tasks. We'll then proceed to understand data modeling with classification tasks using the [Loan Prediction Dataset](data/loan_prediction.csv).
 
