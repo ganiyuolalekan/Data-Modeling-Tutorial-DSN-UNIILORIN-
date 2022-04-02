@@ -4,13 +4,13 @@
 
 ![DSN](images/dsn_logo.png)
 
-This repository houses the course materials from the classes I'm undertaking with the **DSN-UNIILORIN cohort 2** on data modeling.
+This repository houses the course materials from the classes I took with the **DSN-UNIILORIN cohort 2** on data modeling.
 
 Just for a quick overview of what's entailed in the course materials. 
 
-In the course materials ([big_mart_checklist.ipynb](big_mart_checklist.ipynb) and [loan_prediction_checklist.ipynb](loan_prediction_check_list.ipynb)). We explore the checklist by [Aurélien Géron](https://www.oreilly.com/people/aurelien-geron/) in his book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) to model data.
+In the course materials ([big_mart_checklist.ipynb](big_mart_checklist.ipynb) and [loan_prediction_checklist.ipynb](loan_prediction_check_list.ipynb)). We explored the checklist by [Aurélien Géron](https://www.oreilly.com/people/aurelien-geron/) in his book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) to model data.
 
-The first task we'll be undertaking is the regression task with the [Big Mart Sales Dataset](data/big_mart_sales_prediction.csv) to understand how we can model data in regression tasks. We'll then proceed to understand data modeling with classification tasks using the [Loan Prediction Dataset](data/loan_prediction.csv).
+The first task we took is the regression task with the [Big Mart Sales Dataset](data/big_mart_sales_prediction.csv) to understand how we could model data in regression tasks. We then proceeded to understanding data modeling with classification tasks using the [Loan Prediction Dataset](data/loan_prediction.csv).
 
 ## The Data Modeling Checklist
 
@@ -98,6 +98,10 @@ There are multiple assignments and tasks present in the tutorial notebook. The e
 **⚠️** represents a warning about a concept that hasn't been properly explained.
 
 Search out the 🆕 emojis using `ctrl + f` to quickly see the new activities.
+
+## Project
+
+There a little web application to help test out a model pipeline in deployment after the classification session, where we talked about how pipelines can be serialized and exported to other projects to be used for making predictions. The project can be found [here](https://github.com/ganiyuolalekan/Predicting-Loan-Data)
 
 ---
 
